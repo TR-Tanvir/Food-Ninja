@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+nav p{
+    color:red ;
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+.blue{
+    color: blue;
+}
+h2{
+    font-size: 40px;
+}
+.food-villege{
+    display: flex;
+    margin-bottom: 150px;
+}
+.background{
+    background-image: url(images/Frame\ 57.jpg);
+}
+.half-width{
+    width: 50%;
+    margin-left: 40px;
+}
+#ttt{
+    padding-left: 100x;
+}
+.half-width img{
+    width: 45%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,rgb(12, 222, 230));
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
